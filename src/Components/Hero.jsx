@@ -22,7 +22,7 @@ export const Hero = () => {
             Fast, reliable and certified technicians for residential & commercial needs.
           </p>
   
-          <button className="mt-8 px-10 py-3 rounded-md bg-red-800 text-black font-semibold shadow-lg hover:bg-red-400 transition duration-300">
+          <button className="mt-8 px-10 py-3 rounded-md bg-red-800 text-white font-semibold shadow-lg hover:bg-red-400 transition duration-300">
             Get a Free Quote
           </button>
         </div>
